@@ -137,7 +137,8 @@ A typical jurisdictional node will consist of the following components:
 2. **Airflow Instance:** An instance of the Apache Airflow workflow management platform is integrated into the node architecture to orchestrate the data extraction, transformation, and loading processes, ensuring efficient and reliable execution of the data pipeline.
 
 3. **Blockchain Node:** A dedicated blockchain node is deployed to interact with the blockchain-based platform, facilitating secure data sharing, validating transactions, and participating in the consensus mechanisms of the network.
-**Data Extraction, Transformation, and Loading Components**
+
+### ***Data Extraction, Transformation, and Loading Components***
 
 The data extraction, transformation, and loading (ETL) processes are critical components of the jurisdictional node architecture, ensuring that data from local sources is effectively integrated into the decentralized regulatory framework.
 
