@@ -1,7 +1,7 @@
 # ***Cross Jurisdictional Data***
-Decentralized Regulatory Framework for Cross-Jurisdictional Data Integration and Compliance
+## *Decentralized Regulatory Framework for Cross-Jurisdictional Data Integration and Compliance*
 
-**Title:** Decentralized Regulatory Framework for Cross-Jurisdictional Data Integration and Compliance
+
 
 **1. Introduction**
    - Overview of the challenges in data integration and compliance across jurisdictions
