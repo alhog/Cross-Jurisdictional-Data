@@ -209,7 +209,7 @@ The integration of Airflow into the decentralized regulatory framework streamlin
    - Legal and compliance fees (specific to the jurisdiction)
    - Training and knowledge transfer
 
-    ***Let's dive deeper into the modular component costs per jurisdiction for the decentralized regulatory framework:***
+ ***Let's dive deeper into the modular component costs per jurisdiction for the decentralized regulatory framework:***
 
 ## **Modular Component Costs per Jurisdiction**
 
