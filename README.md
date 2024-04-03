@@ -115,7 +115,7 @@ By adhering to these principles and processes, the decentralized regulatory fram
    - Secure data sharing and validation mechanisms
    - Integration with Airflow for workflow orchestration
 
-Technical Architecture
+**Technical Architecture**
 
 The technical architecture of the decentralized regulatory framework is built upon a robust blockchain-based platform, enabling secure and transparent data integration and regulatory compliance across jurisdictions. This section outlines the key components of the architecture, including the blockchain platform, modular node architecture, data extraction and transformation processes, secure data sharing mechanisms, and integration with workflow orchestration tools.
 
