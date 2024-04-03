@@ -1,7 +1,6 @@
 # ***Cross Jurisdictional Data***
 ## *Decentralized Regulatory Framework for Cross-Jurisdictional Data Integration and Compliance*
-
-![alt text](Designer 6.png)
+![alt text](https://github.com/alhog/Cross-Jurisdictional-Data/blob/main/Designer%206.png)
 
 **1. Introduction**
    - Overview of the challenges in data integration and compliance across jurisdictions
