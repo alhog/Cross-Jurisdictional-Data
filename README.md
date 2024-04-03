@@ -1,7 +1,7 @@
 # ***Cross Jurisdictional Data***
 ## *Decentralized Regulatory Framework for Cross-Jurisdictional Data Integration and Compliance*
 
-![alt text](https://github.com/alhog/Wave-Fusion-Protocol/blob/main/B0270DBA-A501-43A8-9C2C-22CD46A1ABB3.jpeg)
+![alt text](https://github.com/alhog/Cross-Jurisdictional-Data/commit/5bb9e18d89cb43d0fb5a7649b8d383aff3724444)
 
 
 **1. Introduction**
