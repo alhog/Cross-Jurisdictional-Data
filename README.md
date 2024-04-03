@@ -209,9 +209,9 @@ The integration of Airflow into the decentralized regulatory framework streamlin
    - Legal and compliance fees (specific to the jurisdiction)
    - Training and knowledge transfer
 
-##     ***Let's dive deeper into the modular component costs per jurisdiction for the decentralized regulatory framework:***
+    ***Let's dive deeper into the modular component costs per jurisdiction for the decentralized regulatory framework:***
 
-**Modular Component Costs per Jurisdiction**
+## **Modular Component Costs per Jurisdiction**
 
 The decentralized regulatory framework is designed to be modular, allowing each participating jurisdiction to deploy and maintain its own node tailored to its specific requirements. This modularity provides flexibility and scalability but also introduces costs associated with setting up and operating the components within each jurisdiction. Here's a breakdown of the potential costs involved:
 
