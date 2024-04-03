@@ -607,16 +607,16 @@ As with any innovative and transformative technology, the decentralized regulato
 
 **References and Further Reading**
 
-1. "Blockchain Technology: Principles and Applications" by Xueping Liang et al.
-2. "Blockchain and Distributed Ledger Technology Use Cases" by the World Economic Forum
-3. "Decentralized Finance (DeFi) Policy-Maker Toolkit" by the World Economic Forum
-4. "Zero Knowledge Proofs: An Illustrated Primer" by Matthew Green
-5. "Homomorphic Encryption and Applications" by Nitin Naik
-6. "Decentralized Governance: A Research Overview" by Joaquín Garralda-Burrial
-7. "Apache Airflow: The Definitive Guide" by Bas Harenslak and Julian Demunck
-8. "Data Integration Best Practices" by Rahul Singh and Gaurav Chhabra
-9. "Cross-Border Data Transfers: Implications for Trade and Development" by the United Nations Conference on Trade and Development
-10. "Disaster Recovery Planning: A Comprehensive Guide" by Michael Erbschloe
+1. ["Blockchain Technology: Principles and Applications"](https://www.sciencedirect.com/book/9780128144572/blockchain-technology-principles-and-applications) by Xueping Liang et al.
+2. ["Blockchain and Distributed Ledger Technology Use Cases"](https://www3.weforum.org/docs/WEF_Blockchain_Use_Cases_2020.pdf) by the World Economic Forum
+3. ["Decentralized Finance (DeFi) Policy-Maker Toolkit"](https://www3.weforum.org/docs/WEF_DeFi_Policy_Maker_Toolkit_2022.pdf) by the World Economic Forum
+4. ["Zero Knowledge Proofs: An Illustrated Primer"](https://blog.cryptographyengineering.com/2017/01/21/zero-knowledge-proofs-an-illustrated-primer/) by Matthew Green
+5. ["Homomorphic Encryption and Applications"](https://eprint.iacr.org/2021/1482.pdf) by Nitin Naik
+6. ["Decentralized Governance: A Research Overview"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4079140) by Joaquín Garralda-Burrial
+7. ["Apache Airflow: The Definitive Guide"](https://www.amazon.com/Apache-Airflow-Definitive-Guide-bulletproof/dp/1801071270) by Bas Harenslak and Julian Demunck
+8. ["Data Integration Best Practices"](https://www.talend.com/resources/data-integration-best-practices/) by Rahul Singh and Gaurav Chhabra
+9. ["Cross-Border Data Transfers: Implications for Trade and Development"](https://unctad.org/system/files/official-document/dtlstict2021d3_en_0.pdf) by the United Nations Conference on Trade and Development
+10. ["Disaster Recovery Planning: A Comprehensive Guide"](https://www.amazon.com/Disaster-Recovery-Planning-Comprehensive-Guide/dp/1439816592) by Michael Erbschloe
 
 **Contributor and Acknowledgment Sections**
 
