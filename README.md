@@ -1,5 +1,5 @@
 # ***Cross Jurisdictional Data***
-## *Decentralized Regulatory Framework for Cross-Jurisdictional Data Integration and Compliance*
+### ***Decentralized Regulatory Framework for Cross-Jurisdictional Data Integration and Compliance***
 ![alt text](https://github.com/alhog/Cross-Jurisdictional-Data/blob/main/Designer%206.png)
 
 ## **Introduction**
