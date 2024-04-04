@@ -79,19 +79,19 @@ The specific consensus mechanism chosen will depend on the priorities and requir
 
 Each jurisdiction participating in the decentralized regulatory framework assumes the following roles and responsibilities:
 
-**Node Operation:** Jurisdictions are responsible for deploying and maintaining their own nodes, which serve as the entry points for data integration and regulatory compliance within their respective jurisdictions.
+1. **Node Operation:** Jurisdictions are responsible for deploying and maintaining their own nodes, which serve as the entry points for data integration and regulatory compliance within their respective jurisdictions.
 
- **Data Integration and Compliance:** Jurisdictions are responsible for extracting, transforming, and loading data from their local sources, ensuring compliance with local laws and regulations, and sharing relevant data with the network as per the defined standards and protocols.
+2. **Data Integration and Compliance:** Jurisdictions are responsible for extracting, transforming, and loading data from their local sources, ensuring compliance with local laws and regulations, and sharing relevant data with the network as per the defined standards and protocols.
 
- **Governance Participation:** Jurisdictions actively participate in the governance of the framework by proposing and voting on updates, enhancements, and decision-making processes through their assigned nodes.
+3. **Governance Participation:** Jurisdictions actively participate in the governance of the framework by proposing and voting on updates, enhancements, and decision-making processes through their assigned nodes.
 
- **Collaboration and Knowledge Sharing:** Jurisdictions collaborate and share knowledge, best practices, and insights with the broader network, fostering a culture of continuous improvement and collective intelligence.
+4. **Collaboration and Knowledge Sharing:** Jurisdictions collaborate and share knowledge, best practices, and insights with the broader network, fostering a culture of continuous improvement and collective intelligence.
    
-**Compliance and Auditing:** Jurisdictions are responsible for ensuring compliance with the framework's standards, protocols, and decisions, as well as conducting regular audits and assessments to maintain the integrity and trustworthiness of the system.
+5. **Compliance and Auditing:** Jurisdictions are responsible for ensuring compliance with the framework's standards, protocols, and decisions, as well as conducting regular audits and assessments to maintain the integrity and trustworthiness of the system.
 
- **Resource Contribution:** Depending on the consensus mechanism adopted, jurisdictions may be required to contribute computational resources, digital assets, or reputation tokens to participate in the network and governance processes.
+6. **Resource Contribution:** Depending on the consensus mechanism adopted, jurisdictions may be required to contribute computational resources, digital assets, or reputation tokens to participate in the network and governance processes.
 
-**Decision-making Processes for Framework Updates and Enhancements**
+### **Decision-making Processes for Framework Updates and Enhancements**
 
 The decentralized regulatory framework is designed to be adaptable and evolve over time to meet the changing needs of participating jurisdictions and the broader regulatory landscape. The decision-making processes for framework updates and enhancements are governed by the chosen consensus mechanism and the following principles:
 
