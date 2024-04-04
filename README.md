@@ -83,7 +83,7 @@ Each jurisdiction participating in the decentralized regulatory framework assume
 
 Below is a comprehensive technical guide for deploying nodes in different jurisdictions for your decentralized regulatory framework. This guide assumes that the audience is beginners and covers hardware, software, prerequisites, and requirements.
 
-### ***Deploying Nodes in Different Jurisdictions: A Comprehensive Guide***
+#### ***Deploying Nodes in Different Jurisdictions: A Comprehensive Guide***
 
 
 In the context of our decentralized regulatory framework, deploying nodes in different jurisdictions is crucial for data integration and regulatory compliance. Each jurisdiction will have its own node, which acts as an entry point to the network. This guide provides step-by-step instructions for setting up a node.
