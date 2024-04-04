@@ -147,15 +147,15 @@ Follow these steps to deploy your node:
 ***Deploying nodes across jurisdictions requires careful planning, adherence to security practices, and collaboration with other participants.***
 
 
-### **Data Integration and Compliance:** Jurisdictions are responsible for extracting, transforming, and loading data from their local sources, ensuring compliance with local laws and regulations, and sharing relevant data with the network as per the defined standards and protocols.
+ **Data Integration and Compliance:** Jurisdictions are responsible for extracting, transforming, and loading data from their local sources, ensuring compliance with local laws and regulations, and sharing relevant data with the network as per the defined standards and protocols.
 
-### **Governance Participation:** Jurisdictions actively participate in the governance of the framework by proposing and voting on updates, enhancements, and decision-making processes through their assigned nodes.
+ **Governance Participation:** Jurisdictions actively participate in the governance of the framework by proposing and voting on updates, enhancements, and decision-making processes through their assigned nodes.
 
-### **Collaboration and Knowledge Sharing:** Jurisdictions collaborate and share knowledge, best practices, and insights with the broader network, fostering a culture of continuous improvement and collective intelligence.
+ **Collaboration and Knowledge Sharing:** Jurisdictions collaborate and share knowledge, best practices, and insights with the broader network, fostering a culture of continuous improvement and collective intelligence.
    
-### **Compliance and Auditing:** Jurisdictions are responsible for ensuring compliance with the framework's standards, protocols, and decisions, as well as conducting regular audits and assessments to maintain the integrity and trustworthiness of the system.
+**Compliance and Auditing:** Jurisdictions are responsible for ensuring compliance with the framework's standards, protocols, and decisions, as well as conducting regular audits and assessments to maintain the integrity and trustworthiness of the system.
 
-### **Resource Contribution:** Depending on the consensus mechanism adopted, jurisdictions may be required to contribute computational resources, digital assets, or reputation tokens to participate in the network and governance processes.
+ **Resource Contribution:** Depending on the consensus mechanism adopted, jurisdictions may be required to contribute computational resources, digital assets, or reputation tokens to participate in the network and governance processes.
 
 **Decision-making Processes for Framework Updates and Enhancements**
 
