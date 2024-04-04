@@ -88,59 +88,59 @@ Below is a comprehensive technical guide for deploying nodes in different jurisd
 
 In the context of our decentralized regulatory framework, deploying nodes in different jurisdictions is crucial for data integration and regulatory compliance. Each jurisdiction will have its own node, which acts as an entry point to the network. This guide provides step-by-step instructions for setting up a node.
 
-### 1. Understand the Basics
+#### 1. Understand the Basics
 Before diving into deployment, ensure you understand the following concepts:
 - **Blockchain**: Familiarize yourself with blockchain technology, distributed ledgers, and consensus mechanisms.
 - **Node**: A participant in the network that maintains a copy of the blockchain.
 
-### 2. Hardware Requirements
+#### 2. Hardware Requirements
 Choose hardware suitable for your jurisdiction's node:
 - **Server/Computer**: A dedicated machine with sufficient resources (CPU, RAM, storage).
 - **Internet Connection**: Stable and reliable internet access.
 - **Storage**: Adequate storage for the blockchain data (size varies based on the chosen blockchain platform).
 
-### 3. Software Requirements
+#### 3. Software Requirements
 Install the necessary software components:
 - **Operating System**: Choose a compatible OS (e.g., Ubuntu, CentOS, Windows Server).
 - **Blockchain Software**: Install the blockchain platform (e.g., Ethereum, Hyperledger Fabric, Corda).
 - **Node Software**: Install the software specific to your chosen blockchain (e.g., Geth for Ethereum, peer for Hyperledger Fabric).
 
-### 4. Prerequisites
+#### 4. Prerequisites
 Ensure the following prerequisites are met:
 - **Access Permissions**: You need administrative access to install software and configure settings.
 - **Firewall Rules**: Configure firewall rules to allow incoming/outgoing traffic on relevant ports (e.g., 8545 for Ethereum RPC).
 - **Domain Name**: Consider setting up a domain name for your node (optional but recommended).
 
-### 5. Node Deployment Steps
+#### 5. Node Deployment Steps
 Follow these steps to deploy your node:
 
-#### Step 1: Install Dependencies
+##### Step 1: Install Dependencies
 - Update the OS: `sudo apt update && sudo apt upgrade`
 - Install required packages (e.g., Python, Git, etc.).
 
-#### Step 2: Install Blockchain Software
+##### Step 2: Install Blockchain Software
 - Choose your blockchain platform and follow its installation guide.
 - For Ethereum (Geth):
   - Install Geth: `sudo apt install geth`
   - Initialize a new Ethereum node: `geth init <genesis.json>`
   - Start the node: `geth --syncmode full --rpc --rpcaddr 0.0.0.0 --rpcport 8545`
 
-#### Step 3: Configure Node
+##### Step 3: Configure Node
 - Edit configuration files (e.g., `geth.toml` or `config.yaml`).
 - Set network ID, data directory, and other parameters.
 - Enable RPC for external access (if needed).
 
-#### Step 4: Secure the Node
+##### Step 4: Secure the Node
 - Set up SSH keys for secure remote access.
 - Disable unnecessary services.
 - Implement security best practices (e.g., fail2ban, firewall rules).
 
-#### Step 5: Monitor and Maintain
+##### Step 5: Monitor and Maintain
 - Monitor node health (CPU, memory, disk usage).
 - Regularly update software and security patches.
 - Backup blockchain data.
 
-### 6. Join the Network
+#### 6. Join the Network
 - Communicate with other nodes to join the network.
 - Share your node's IP address and port with other participants.
 
