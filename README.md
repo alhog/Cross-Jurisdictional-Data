@@ -79,7 +79,7 @@ The specific consensus mechanism chosen will depend on the priorities and requir
 
 Each jurisdiction participating in the decentralized regulatory framework assumes the following roles and responsibilities:
 
-1. **Node Operation:** Jurisdictions are responsible for deploying and maintaining their own nodes, which serve as the entry points for data integration and regulatory compliance within their respective jurisdictions.
+**Node Operation:** Jurisdictions are responsible for deploying and maintaining their own nodes, which serve as the entry points for data integration and regulatory compliance within their respective jurisdictions.
 
 Below is a comprehensive technical guide for deploying nodes in different jurisdictions for your decentralized regulatory framework. This guide assumes that the audience is beginners and covers hardware, software, prerequisites, and requirements.
 
@@ -147,15 +147,15 @@ Follow these steps to deploy your node:
 ***Deploying nodes across jurisdictions requires careful planning, adherence to security practices, and collaboration with other participants.***
 
 
-2. **Data Integration and Compliance:** Jurisdictions are responsible for extracting, transforming, and loading data from their local sources, ensuring compliance with local laws and regulations, and sharing relevant data with the network as per the defined standards and protocols.
+### **Data Integration and Compliance:** Jurisdictions are responsible for extracting, transforming, and loading data from their local sources, ensuring compliance with local laws and regulations, and sharing relevant data with the network as per the defined standards and protocols.
 
-3. **Governance Participation:** Jurisdictions actively participate in the governance of the framework by proposing and voting on updates, enhancements, and decision-making processes through their assigned nodes.
+### **Governance Participation:** Jurisdictions actively participate in the governance of the framework by proposing and voting on updates, enhancements, and decision-making processes through their assigned nodes.
 
-4. **Collaboration and Knowledge Sharing:** Jurisdictions collaborate and share knowledge, best practices, and insights with the broader network, fostering a culture of continuous improvement and collective intelligence.
+### **Collaboration and Knowledge Sharing:** Jurisdictions collaborate and share knowledge, best practices, and insights with the broader network, fostering a culture of continuous improvement and collective intelligence.
    
-5. **Compliance and Auditing:** Jurisdictions are responsible for ensuring compliance with the framework's standards, protocols, and decisions, as well as conducting regular audits and assessments to maintain the integrity and trustworthiness of the system.
+### **Compliance and Auditing:** Jurisdictions are responsible for ensuring compliance with the framework's standards, protocols, and decisions, as well as conducting regular audits and assessments to maintain the integrity and trustworthiness of the system.
 
-6. **Resource Contribution:** Depending on the consensus mechanism adopted, jurisdictions may be required to contribute computational resources, digital assets, or reputation tokens to participate in the network and governance processes.
+### **Resource Contribution:** Depending on the consensus mechanism adopted, jurisdictions may be required to contribute computational resources, digital assets, or reputation tokens to participate in the network and governance processes.
 
 **Decision-making Processes for Framework Updates and Enhancements**
 
