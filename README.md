@@ -91,7 +91,7 @@ Each jurisdiction participating in the decentralized regulatory framework assume
 
 6. **Resource Contribution:** Depending on the consensus mechanism adopted, jurisdictions may be required to contribute computational resources, digital assets, or reputation tokens to participate in the network and governance processes.
 
-### **Decision-making Processes for Framework Updates and Enhancements**
+#### **Decision-making Processes for Framework Updates and Enhancements**
 
 The decentralized regulatory framework is designed to be adaptable and evolve over time to meet the changing needs of participating jurisdictions and the broader regulatory landscape. The decision-making processes for framework updates and enhancements are governed by the chosen consensus mechanism and the following principles:
 
