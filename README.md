@@ -75,15 +75,15 @@ The consensus mechanism used for decision-making and framework updates could be 
 
 The specific consensus mechanism chosen will depend on the priorities and requirements of the participating jurisdictions, balancing factors such as decentralization, efficiency, and security.
 
-**Roles and Responsibilities of Participating Jurisdictions**
+# **Roles and Responsibilities of Participating Jurisdictions**
 
 Each jurisdiction participating in the decentralized regulatory framework assumes the following roles and responsibilities:
 
 1. **Node Operation:** Jurisdictions are responsible for deploying and maintaining their own nodes, which serve as the entry points for data integration and regulatory compliance within their respective jurisdictions.
 
-Certainly! Below is a comprehensive technical guide for deploying nodes in different jurisdictions for your decentralized regulatory framework. This guide assumes that the audience is beginners and covers hardware, software, prerequisites, and requirements.
+Below is a comprehensive technical guide for deploying nodes in different jurisdictions for your decentralized regulatory framework. This guide assumes that the audience is beginners and covers hardware, software, prerequisites, and requirements.
 
-# Deploying Nodes in Different Jurisdictions: A Comprehensive Guide
+Deploying Nodes in Different Jurisdictions: A Comprehensive Guide
 
 ## Introduction
 In the context of our decentralized regulatory framework, deploying nodes in different jurisdictions is crucial for data integration and regulatory compliance. Each jurisdiction will have its own node, which acts as an entry point to the network. This guide provides step-by-step instructions for setting up a node.
