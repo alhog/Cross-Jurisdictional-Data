@@ -81,72 +81,6 @@ Each jurisdiction participating in the decentralized regulatory framework assume
 
 **Node Operation:** Jurisdictions are responsible for deploying and maintaining their own nodes, which serve as the entry points for data integration and regulatory compliance within their respective jurisdictions.
 
-Below is a comprehensive technical guide for deploying nodes in different jurisdictions for your decentralized regulatory framework. This guide assumes that the audience is beginners and covers hardware, software, prerequisites, and requirements.
-
-#### ***Deploying Nodes in Different Jurisdictions: A Comprehensive Guide***
-
-
-In the context of our decentralized regulatory framework, deploying nodes in different jurisdictions is crucial for data integration and regulatory compliance. Each jurisdiction will have its own node, which acts as an entry point to the network. This guide provides step-by-step instructions for setting up a node.
-
-#### 1. Understand the Basics
-Before diving into deployment, ensure you understand the following concepts:
-- **Blockchain**: Familiarize yourself with blockchain technology, distributed ledgers, and consensus mechanisms.
-- **Node**: A participant in the network that maintains a copy of the blockchain.
-
-#### 2. Hardware Requirements
-Choose hardware suitable for your jurisdiction's node:
-- **Server/Computer**: A dedicated machine with sufficient resources (CPU, RAM, storage).
-- **Internet Connection**: Stable and reliable internet access.
-- **Storage**: Adequate storage for the blockchain data (size varies based on the chosen blockchain platform).
-
-#### 3. Software Requirements
-Install the necessary software components:
-- **Operating System**: Choose a compatible OS (e.g., Ubuntu, CentOS, Windows Server).
-- **Blockchain Software**: Install the blockchain platform (e.g., Ethereum, Hyperledger Fabric, Corda).
-- **Node Software**: Install the software specific to your chosen blockchain (e.g., Geth for Ethereum, peer for Hyperledger Fabric).
-
-#### 4. Prerequisites
-Ensure the following prerequisites are met:
-- **Access Permissions**: You need administrative access to install software and configure settings.
-- **Firewall Rules**: Configure firewall rules to allow incoming/outgoing traffic on relevant ports (e.g., 8545 for Ethereum RPC).
-- **Domain Name**: Consider setting up a domain name for your node (optional but recommended).
-
-#### 5. Node Deployment Steps
-Follow these steps to deploy your node:
-
-##### Step 1: Install Dependencies
-- Update the OS: `sudo apt update && sudo apt upgrade`
-- Install required packages (e.g., Python, Git, etc.).
-
-##### Step 2: Install Blockchain Software
-- Choose your blockchain platform and follow its installation guide.
-- For Ethereum (Geth):
-  - Install Geth: `sudo apt install geth`
-  - Initialize a new Ethereum node: `geth init <genesis.json>`
-  - Start the node: `geth --syncmode full --rpc --rpcaddr 0.0.0.0 --rpcport 8545`
-
-##### Step 3: Configure Node
-- Edit configuration files (e.g., `geth.toml` or `config.yaml`).
-- Set network ID, data directory, and other parameters.
-- Enable RPC for external access (if needed).
-
-##### Step 4: Secure the Node
-- Set up SSH keys for secure remote access.
-- Disable unnecessary services.
-- Implement security best practices (e.g., fail2ban, firewall rules).
-
-##### Step 5: Monitor and Maintain
-- Monitor node health (CPU, memory, disk usage).
-- Regularly update software and security patches.
-- Backup blockchain data.
-
-#### 6. Join the Network
-- Communicate with other nodes to join the network.
-- Share your node's IP address and port with other participants.
-
-***Deploying nodes across jurisdictions requires careful planning, adherence to security practices, and collaboration with other participants.***
-
-
  **Data Integration and Compliance:** Jurisdictions are responsible for extracting, transforming, and loading data from their local sources, ensuring compliance with local laws and regulations, and sharing relevant data with the network as per the defined standards and protocols.
 
  **Governance Participation:** Jurisdictions actively participate in the governance of the framework by proposing and voting on updates, enhancements, and decision-making processes through their assigned nodes.
@@ -248,6 +182,71 @@ The integration of Airflow into the decentralized regulatory framework streamlin
 **Deployment and Integration**
 
 The successful deployment and integration of the decentralized regulatory framework across multiple jurisdictions will require careful planning, adherence to local regulations, robust testing, as well as validation processes. This section outlines the key requirements, processes, and considerations involved in setting up jurisdictional nodes, ensuring compliance, and onboarding new jurisdictions into the network.
+
+Below is a comprehensive technical guide for deploying nodes in different jurisdictions for your decentralized regulatory framework. This guide assumes that the audience is beginners and covers hardware, software, prerequisites, and requirements.
+
+#### ***Deploying Nodes in Different Jurisdictions: A Comprehensive Guide***
+
+
+In the context of our decentralized regulatory framework, deploying nodes in different jurisdictions is crucial for data integration and regulatory compliance. Each jurisdiction will have its own node, which acts as an entry point to the network. This guide provides step-by-step instructions for setting up a node.
+
+#### 1. Understand the Basics
+Before diving into deployment, ensure you understand the following concepts:
+- **Blockchain**: Familiarize yourself with blockchain technology, distributed ledgers, and consensus mechanisms.
+- **Node**: A participant in the network that maintains a copy of the blockchain.
+
+#### 2. Hardware Requirements
+Choose hardware suitable for your jurisdiction's node:
+- **Server/Computer**: A dedicated machine with sufficient resources (CPU, RAM, storage).
+- **Internet Connection**: Stable and reliable internet access.
+- **Storage**: Adequate storage for the blockchain data (size varies based on the chosen blockchain platform).
+
+#### 3. Software Requirements
+Install the necessary software components:
+- **Operating System**: Choose a compatible OS (e.g., Ubuntu, CentOS, Windows Server).
+- **Blockchain Software**: Install the blockchain platform (e.g., Ethereum, Hyperledger Fabric, Corda).
+- **Node Software**: Install the software specific to your chosen blockchain (e.g., Geth for Ethereum, peer for Hyperledger Fabric).
+
+#### 4. Prerequisites
+Ensure the following prerequisites are met:
+- **Access Permissions**: You need administrative access to install software and configure settings.
+- **Firewall Rules**: Configure firewall rules to allow incoming/outgoing traffic on relevant ports (e.g., 8545 for Ethereum RPC).
+- **Domain Name**: Consider setting up a domain name for your node (optional but recommended).
+
+#### 5. Node Deployment Steps
+Follow these steps to deploy your node:
+
+##### Step 1: Install Dependencies
+- Update the OS: `sudo apt update && sudo apt upgrade`
+- Install required packages (e.g., Python, Git, etc.).
+
+##### Step 2: Install Blockchain Software
+- Choose your blockchain platform and follow its installation guide.
+- For Ethereum (Geth):
+  - Install Geth: `sudo apt install geth`
+  - Initialize a new Ethereum node: `geth init <genesis.json>`
+  - Start the node: `geth --syncmode full --rpc --rpcaddr 0.0.0.0 --rpcport 8545`
+
+##### Step 3: Configure Node
+- Edit configuration files (e.g., `geth.toml` or `config.yaml`).
+- Set network ID, data directory, and other parameters.
+- Enable RPC for external access (if needed).
+
+##### Step 4: Secure the Node
+- Set up SSH keys for secure remote access.
+- Disable unnecessary services.
+- Implement security best practices (e.g., fail2ban, firewall rules).
+
+##### Step 5: Monitor and Maintain
+- Monitor node health (CPU, memory, disk usage).
+- Regularly update software and security patches.
+- Backup blockchain data.
+
+#### 6. Join the Network
+- Communicate with other nodes to join the network.
+- Share your node's IP address and port with other participants.
+
+***Deploying nodes across jurisdictions requires careful planning, adherence to security practices, and collaboration with other participants.***
 
 **Requirements for Jurisdictional Node Setup**
 
